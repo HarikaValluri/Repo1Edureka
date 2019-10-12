@@ -1,4 +1,0 @@
-This is my first file.
-Made changes for the first time.
-hello..there!!
-From github to local system.
